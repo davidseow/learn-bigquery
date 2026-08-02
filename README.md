@@ -8,19 +8,19 @@ A self-paced course designed for mobile reading. Each lesson is 5–7 minutes. W
 
 | # | Lesson | Summary |
 |---|--------|---------|
-| 1.1 | [What is BigQuery](module-01-foundations/01-what-is-bigquery.md) | Serverless warehouse, columnar storage, when to use it |
-| 1.2 | [Projects, Datasets, Tables](module-01-foundations/02-projects-datasets-tables.md) | Resource hierarchy and permissions model |
-| 1.3 | [Your First Queries](module-01-foundations/03-first-queries.md) | SELECT, filter, aggregate — and understanding cost |
+| ✅ 1.1 | [What is BigQuery](module-01-foundations/01-what-is-bigquery.md) | Serverless warehouse, columnar storage, when to use it |
+| ✅ 1.2 | [Projects, Datasets, Tables](module-01-foundations/02-projects-datasets-tables.md) | Resource hierarchy and permissions model |
+| ✅ 1.3 | [Your First Queries](module-01-foundations/03-first-queries.md) | SELECT, filter, aggregate — and understanding cost |
 
 ## Module 2: Partitioning & Clustering
 
 | # | Lesson | Summary |
 |---|--------|---------|
-| 2.1 | [Why Partition?](module-02-partitioning-clustering/01-why-partition.md) | Query pruning: read less, pay less, go faster |
-| 2.2 | [Time-Based Partitioning](module-02-partitioning-clustering/02-time-based-partitioning.md) | DATE/TIMESTAMP columns, expiry, partition filters |
-| 2.3 | [Other Partition Types](module-02-partitioning-clustering/03-other-partition-types.md) | Integer range and ingestion-time partitioning |
-| 2.4 | [Clustering](module-02-partitioning-clustering/04-clustering.md) | Sorted blocks, clustering keys, when it helps |
-| 2.5 | [Partition + Cluster Together](module-02-partitioning-clustering/05-combine-partition-cluster.md) | The winning combo for most production tables |
+| ✅ 2.1 | [Why Partition?](module-02-partitioning-clustering/01-why-partition.md) | Query pruning: read less, pay less, go faster |
+| ✅ 2.2 | [Time-Based Partitioning](module-02-partitioning-clustering/02-time-based-partitioning.md) | DATE/TIMESTAMP columns, expiry, partition filters |
+| ✅ 2.3 | [Other Partition Types](module-02-partitioning-clustering/03-other-partition-types.md) | Integer range and ingestion-time partitioning |
+| ✅ 2.4 | [Clustering](module-02-partitioning-clustering/04-clustering.md) | Sorted blocks, clustering keys, when it helps |
+| ✅ 2.5 | [Partition + Cluster Together](module-02-partitioning-clustering/05-combine-partition-cluster.md) | The winning combo for most production tables |
 | 2.6 | [QE: Testing Partitioned Tables](module-02-partitioning-clustering/06-qe-testing-partitions.md) | Validate pruning works and partitions are healthy |
 
 ## Module 3: Cost Optimisation
