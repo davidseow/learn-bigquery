@@ -21,13 +21,13 @@ A self-paced course designed for mobile reading. Each lesson is 5–7 minutes. W
 | ✅ 2.3 | [Other Partition Types](module-02-partitioning-clustering/03-other-partition-types.md) | Integer range and ingestion-time partitioning |
 | ✅ 2.4 | [Clustering](module-02-partitioning-clustering/04-clustering.md) | Sorted blocks, clustering keys, when it helps |
 | ✅ 2.5 | [Partition + Cluster Together](module-02-partitioning-clustering/05-combine-partition-cluster.md) | The winning combo for most production tables |
-| 2.6 | [QE: Testing Partitioned Tables](module-02-partitioning-clustering/06-qe-testing-partitions.md) | Validate pruning works and partitions are healthy |
+| ✅ 2.6 | [QE: Testing Partitioned Tables](module-02-partitioning-clustering/06-qe-testing-partitions.md) | Validate pruning works and partitions are healthy |
 
 ## Module 3: Cost Optimisation
 
 | # | Lesson | Summary |
 |---|--------|---------|
-| 3.1 | [How Pricing Works](module-03-cost-optimisation/01-pricing-model.md) | On-demand vs flat-rate, bytes billed explained |
+| ✅ 3.1 | [How Pricing Works](module-03-cost-optimisation/01-pricing-model.md) | On-demand vs flat-rate, bytes billed explained |
 | 3.2 | [Dry Runs & Estimation](module-03-cost-optimisation/02-dry-runs-estimation.md) | Check cost before running, in the UI and CLI |
 | 3.3 | [Expensive Query Patterns to Avoid](module-03-cost-optimisation/03-avoid-expensive-queries.md) | SELECT *, LIMIT misconception, cross joins |
 | 3.4 | [Materialized Views](module-03-cost-optimisation/04-materialized-views.md) | Pre-aggregate results that refresh automatically |
